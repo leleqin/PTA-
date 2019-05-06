@@ -4,6 +4,7 @@ import javax.management.RuntimeErrorException;
 
 /**
  * 栈
+ * LIFO（后进先出）
  * @author leleqin
  *
  */
